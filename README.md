@@ -96,7 +96,7 @@ This script allows you to, as long as you are on the same network as your device
    Example URL:
 
    ```
-   http://localhost:/exec?cmd=echo+%2Fhi
+   http://localhost:3030/exec?cmd=echo+%2Fhi
    ```
 
    **Response**: The output of the executed command.
@@ -107,7 +107,7 @@ This script allows you to, as long as you are on the same network as your device
    
    **Json Format:**
    ```
-   URL = http://192.168.1.105:3030/exec
+   URL = http://localhost:3030/exec
    { "cmd": "echo hi" }
    ```
    
