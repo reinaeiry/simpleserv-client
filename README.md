@@ -103,7 +103,6 @@ This script allows you to, as long as you are on the same network as your device
 
    ```
    hi
-   ...
    ```
    
    **Json Format:**
